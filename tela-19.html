@@ -1,0 +1,68 @@
+<style>
+    .parent {
+        width: 898px;
+        overflow-x: hidden;
+        float: left;
+        margin-left: -14px;
+    }
+
+    .child {
+        width: 1000px;
+        height: 492px;
+        float: left;
+        cursor: pointer;
+    }
+</style>
+<div style="display: flex;">
+    <div style="width: 622px;height: 490px;right: 1px;background-color: #fda808;padding-left: 40px;padding-top: 10px;">
+        <div>
+            <p style="position: absolute;color: #294667;margin-left: 20px;margin-top: 26px;font-size: 12px;">
+                TÓPICO<strong>
+                    2</strong></p>
+            <p
+                style="position: absolute;color: #294667;margin-left: 90px;margin-top: 20px;font-size: 11px;width: 190px;">
+                TRABALHO DO GESTOR DA ATENÇÃO PRIMÁRIA À SAÚDE</p>
+        </div>
+        <p style="color: #294667;margin-top: 160px;width: 240px;margin-left: 20px;">A configuração atual da APS
+            brasileira é resultado de diversas mudanças históricas, de movimentos sociais, de ganhos e
+            perdas no campo das políticas públicas de saúde.</p>
+        <p style="color: #294667;width: 240px;margin-left: 20px;">Dessa forma, buscando resgatar
+            alguns marcos centrais, organizamos uma linha do tempo para você conhecer esse percurso histórico.
+        </p>
+        <div style="position: absolute;height: 300px;width: 3px;background-color: #324963;top: 98px;left: 377px;">
+        </div>
+    </div>
+    <div class="parent">
+        <div class="child">
+            <img src="recursos/imgs/img-pag-22.svg" style="margin-left: 1px;height: 500px;">
+        </div>
+    </div>
+</div>
+<script>
+    $(() => {
+        const slider = document.querySelector('.parent');
+        let mouseDown = false;
+        let startX, scrollLeft;
+
+        let startDragging = function (e) {
+            mouseDown = true;
+            startX = e.pageX - slider.offsetLeft;
+            scrollLeft = slider.scrollLeft;
+        };
+        let stopDragging = function (event) {
+            mouseDown = false;
+        };
+
+        slider.addEventListener('mousemove', (e) => {
+            e.preventDefault();
+            if (!mouseDown) { return; }
+            const x = e.pageX - slider.offsetLeft;
+            const scroll = x - startX;
+            slider.scrollLeft = scrollLeft - scroll;
+        });
+
+        slider.addEventListener('mousedown', startDragging, false);
+        slider.addEventListener('mouseup', stopDragging, false);
+        slider.addEventListener('mouseleave', stopDragging, false);
+    })
+</script>

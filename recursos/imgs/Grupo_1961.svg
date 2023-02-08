@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.472" height="113.25" viewBox="0 0 37.472 113.25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_1097" data-name="Retângulo 1097" width="27.472" height="113.25" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Caminho_647" data-name="Caminho 647" d="M19.464,66.275l8.008-9.65-8.008-9.65V0H0V46.975l8.008,9.65L0,66.275V113.25H19.464Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_1098" data-name="Retângulo 1098" width="6.472" height="99.01" transform="translate(8.528 7.12)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1961" data-name="Grupo 1961" transform="translate(3085 272)">
+    <g id="Grupo_1929" data-name="Grupo 1929" transform="translate(-3085 -272)" opacity="0.2">
+      <g id="Grupo_1928" data-name="Grupo 1928">
+        <g id="Grupo_1927" data-name="Grupo 1927" clip-path="url(#clip-path)">
+          <g id="Grupo_1926" data-name="Grupo 1926">
+            <g id="Grupo_1925" data-name="Grupo 1925" clip-path="url(#clip-path-2)">
+              <image id="Retângulo_1096" data-name="Retângulo 1096" width="28" height="114" transform="translate(0 -0.125)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAByCAYAAABA87G+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAE2SURBVGhD7ZoxTsNAEEVtQiCBJi0VHIDC98glfP8+ARLA7JfcZcqZNxI7X3r2yC7efq+VJh6XZRnI3K1nLCV0z/8XjvM8P60zEjWUEEMN39qABW8o4TOJhHuSFKH5rKPoo+EjiYQ7kpQ9NKtHkSI0q0ch4QOJhObbFEVKQ/NGFCV0R8ItSQndkfCepITuSLghSRGa1aOQEEUHs3oUNyuIxrwYiXkxEvNiJDqMJCV0R0I0fTREU0L3lNA9EurfLox6pO70sYfmSqKQ8JekGrqT0vCHJKWheSMKCb9JUvbQXEkUfQgvJBJeSVIamjeiSBF+kqQIP0j6aHgikfBMggs30zS9t+GLAt9DfWZ2bAMWPdKXdjZ/9yJQw6kNWCR8XWckEh7WGUl9lOyeErqnhO4poXtg4TD8AQu6sZjMhPIkAAAAAElFTkSuQmCC"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Caminho_648" data-name="Caminho 648" d="M29.035,65.062l8.437-8.437-8.437-8.437V7.12H8.528V48.188l8.437,8.437L8.528,65.062V106.13H29.035Z" transform="translate(-3085 -272)" fill="#f4bb2a"/>
+    <g id="Grupo_1932" data-name="Grupo 1932" transform="translate(-3085 -272)" opacity="0.2">
+      <g id="Grupo_1931" data-name="Grupo 1931">
+        <g id="Grupo_1930" data-name="Grupo 1930" clip-path="url(#clip-path-3)">
+          <path id="Caminho_649" data-name="Caminho 649" d="M15,58.59,8.528,65.062V106.13H15Z" fill="#606060"/>
+          <path id="Caminho_650" data-name="Caminho 650" d="M8.528,48.188,15,54.66V7.12H8.528Z" fill="#606060"/>
+        </g>
+      </g>
+    </g>
+    <path id="Caminho_651" data-name="Caminho 651" d="M21.3,21.036h-2.35V16.5q0-.826.036-1.512a5.014,5.014,0,0,1-.54.551l-.972.8-1.2-1.477,2.941-2.4H21.3Z" transform="translate(-3085 -272)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.472" height="113.25" viewBox="0 0 37.472 113.25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_1109" data-name="Retângulo 1109" width="27.472" height="113.25" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Caminho_667" data-name="Caminho 667" d="M19.464,66.275l8.008-9.65-8.008-9.65V0H0V46.975l8.008,9.65L0,66.275V113.25H19.464Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_1111" data-name="Retângulo 1111" width="6.472" height="99.01" transform="translate(8.528 7.12)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1986" data-name="Grupo 1986" transform="translate(2635.411 272)">
+    <g id="Grupo_1985" data-name="Grupo 1985">
+      <g id="Grupo_1984" data-name="Grupo 1984">
+        <g id="Grupo_1983" data-name="Grupo 1983">
+          <g id="Grupo_1982" data-name="Grupo 1982">
+            <g id="Grupo_1981" data-name="Grupo 1981">
+              <g id="Grupo_1980" data-name="Grupo 1980">
+                <g id="Grupo_1979" data-name="Grupo 1979">
+                  <g id="Grupo_1978" data-name="Grupo 1978">
+                    <g id="Grupo_1977" data-name="Grupo 1977">
+                      <g id="Grupo_1971" data-name="Grupo 1971" transform="translate(-2635.411 -272)" opacity="0.2">
+                        <g id="Grupo_1970" data-name="Grupo 1970">
+                          <g id="Grupo_1969" data-name="Grupo 1969" clip-path="url(#clip-path)">
+                            <g id="Grupo_1968" data-name="Grupo 1968">
+                              <g id="Grupo_1967" data-name="Grupo 1967" clip-path="url(#clip-path-2)">
+                                <image id="Retângulo_1108" data-name="Retângulo 1108" width="28" height="114" transform="translate(0 -0.75)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAByCAYAAABA87G+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFDSURBVGhD7Zq7TsNAEEVtEgiEgpqeKpXLfAHf4f+vgYSns1dylylnzkjsXOmsV97i7IwdKZJ3XJZlIHOzXrGU0D3/XzjO87xd50hU4Z4EF6qlL22CJaWljyQSPpBIeE+S0lJzJ1FIaL5NUaRUuCOR0Hx9o+ijwjuSlJaaC1GktNRciCKlpbckKS01dxJFH0L91cfoo8INSR8VmgtRpLQURYNZehRXO4jGvBmJeTMSDSPJ1Q6i0WDuJAoJ0aRUaC5EkdJSNCV0TwndI6G+dmFUS93po0JzIYoSuiPhH0kJ3ZHwl6SE7kj4TSLhD0mK8Isk5Rl+kqS01FyIQsIzSYrwRNKH8J1Ewg8SvMLNNE2HNjF/pBGowjcSHTN7bRMsEh7XORI9w6d2NfsdgSp8bhMsEuqsEpY6Be2eErqnhO4poXOG4QLkXc2cdOTimAAAAABJRU5ErkJggg=="/>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                      <rect id="Retângulo_1110" data-name="Retângulo 1110" width="37.472" height="113.25" transform="translate(-2635.411 -272)" fill="none"/>
+                      <path id="Caminho_668" data-name="Caminho 668" d="M8.528,7.12V48.188l8.437,8.437L8.528,65.062V106.13H29.035V65.062l8.437-8.437-8.437-8.437V7.12Z" transform="translate(-2635.411 -272)" fill="#54bfcd"/>
+                      <g id="Grupo_1976" data-name="Grupo 1976" transform="translate(-2635.411 -272)" opacity="0.2">
+                        <g id="Grupo_1975" data-name="Grupo 1975">
+                          <g id="Grupo_1974" data-name="Grupo 1974" clip-path="url(#clip-path-3)">
+                            <path id="Caminho_669" data-name="Caminho 669" d="M15,58.59,8.528,65.062V106.13H15Z" fill="#606060"/>
+                            <path id="Caminho_670" data-name="Caminho 670" d="M8.528,48.188,15,54.66V7.12H8.528Z" fill="#606060"/>
+                          </g>
+                        </g>
+                      </g>
+                      <path id="Caminho_671" data-name="Caminho 671" d="M22.629,19.378h-.944v1.658H19.4V19.378H15.984v-1.7l3.562-5.209h2.139v5.18h.944ZM19.4,17.649v-1q0-.282.021-.759a4.7,4.7,0,0,1,.032-.5h-.065a6.206,6.206,0,0,1-.451.844l-.949,1.412Z" transform="translate(-2635.411 -272)" fill="#fff"/>
+                      <rect id="Retângulo_1112" data-name="Retângulo 1112" width="37.472" height="113.25" transform="translate(-2635.411 -272)" fill="none"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

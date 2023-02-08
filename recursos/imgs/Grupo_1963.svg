@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.472" height="113.25" viewBox="0 0 37.472 113.25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_1094" data-name="Retângulo 1094" width="27.472" height="113.25" transform="translate(164.964 158.625)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Caminho_642" data-name="Caminho 642" d="M184.428,224.9l8.008-9.65-8.008-9.65V158.625H164.964V205.6l8.008,9.65-8.008,9.65v46.975h19.464Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_1095" data-name="Retângulo 1095" width="6.472" height="99.01" transform="translate(173.492 165.745)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1963" data-name="Grupo 1963" transform="translate(2920.036 113.375)">
+    <g id="Grupo_1921" data-name="Grupo 1921" transform="translate(-3085 -272)" opacity="0.2">
+      <g id="Grupo_1920" data-name="Grupo 1920">
+        <g id="Grupo_1919" data-name="Grupo 1919" clip-path="url(#clip-path)">
+          <g id="Grupo_1918" data-name="Grupo 1918">
+            <g id="Grupo_1917" data-name="Grupo 1917" clip-path="url(#clip-path-2)">
+              <image id="Retângulo_1093" data-name="Retângulo 1093" width="29" height="114" transform="translate(164 157.875)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAByCAYAAACvMdqAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAE/SURBVGhD7Zq7UsMwEEVtQiCBIjU9VSqXfEG+w/9fEyDhYXRn3GXbe7bQ3pkja6ziaNdOkbHGZVkGOnfrFU1JrelHOs7zfL/OsajSJ5oUqdr72iZo0tr7TCPpnkbSHU1ae8PdOJE0fMOcpFX6SCNp+Fo76avSB5q09oYLTtLaGy44SWvvliatveFunPQl1d8KlL4q3dD0VWm44CStvTgawhY4udkFQXjTTXjTjYaR5mYXBBrC3TiRFE9apeGCk7T24impNSW1RlJ94UOp9lrpq9JwwUlJrUj6R1NSK5L+0pTUiqTfNJL+0KRJrzRpz/RCk9becMGJpF80adJPmr6kZxpJP2hSKt1M03Rsk/BH7EKVvtPoCN+pTdBI+rbOseiZHto17L0LVfrSJmgk1bkvNHU63ZqSWlNSa0pqzDD8A2727+JcrAMoAAAAAElFTkSuQmCC"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Caminho_643" data-name="Caminho 643" d="M194,223.687l8.437-8.437L194,206.813V165.745H173.492v41.068l8.437,8.437-8.437,8.437v41.068H194Z" transform="translate(-3085 -272)" fill="#108141"/>
+    <g id="Grupo_1924" data-name="Grupo 1924" transform="translate(-3085 -272)" opacity="0.2">
+      <g id="Grupo_1923" data-name="Grupo 1923">
+        <g id="Grupo_1922" data-name="Grupo 1922" clip-path="url(#clip-path-3)">
+          <path id="Caminho_644" data-name="Caminho 644" d="M179.964,217.215l-6.472,6.472v41.068h6.472Z" fill="#606060"/>
+          <path id="Caminho_645" data-name="Caminho 645" d="M173.492,206.813l6.472,6.472v-47.54h-6.472Z" fill="#606060"/>
+        </g>
+      </g>
+    </g>
+    <path id="Caminho_646" data-name="Caminho 646" d="M181.968,179.661l2.941-6.639H181.2v-1.916h6.182v1.366l-3.018,7.189Z" transform="translate(-3085 -272)" fill="#fff"/>
+  </g>
+</svg>

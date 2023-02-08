@@ -1,0 +1,61 @@
+<div style="height: 60px;width: 100%;">
+    <img style="height: 60px;position: absolute;right: 0px;" src="recursos/imgs/H1.png">
+    <p style="position: absolute;color: #294667;margin-left: 42px;margin-top: 26px;font-size: 12px;">TÓPICO<strong>
+            1</strong></p>
+    <p style="position: absolute;color: #294667;margin-left: 112px;margin-top: 26px;font-size: 11px;width: 450px;">
+        PROCESSO DE TRABALHO EM SAÚDE</p>
+</div>
+<div style="margin-top: 40px;margin-left: 90px;width: 808px;">
+    <div class="animate__animated animate__backInRight"
+        style="margin-top: 30px;display: flex;flex-direction: row;width: 711px;height: 137px;top: 139px;right: 15px;background-color: #fff2d9;border-radius: 10px;">
+        <img src="recursos/imgs/Grupo_1850.svg" style="width: 66px;height: 66px;margin-top: 35px;margin-left: 30px;">
+        <div style="display: initial;margin-left: 27px;margin-top: 15px;width: 559px;">
+            <p style="font-weight: bold;color: #294666;font-size: 15px;">CONCEITO</p>
+            <p style="font-size: 12px;">O trabalho se caracteriza por um processo de transformação permeado pela
+                racionalidade exclusivamente humana orientado
+                para uma finalidade, no qual o indivíduo concebe o trabalho antes em sua mente e depois executa-o na
+                materialidade
+                (MARX, 2017).</p>
+        </div>
+    </div>
+    <div style="margin-top: 36px;margin-left: -40px;width: 808px;">
+        <p>Considera-se trabalho o modo de agregar valor às coisas. Por meio dele, transformamos a matéria bruta
+            disponível
+            na
+            natureza <strong style="width: 40px; background-color: #FAC900; display: inline;"><a
+                    id="hotWord-bt">(matéria-prima)</a></strong> em um novo elemento, ou seja, objeto ou mercadoria,
+            potencialmente pensado para
+            satisfazer as
+            necessidades de alguém ou de um grupo social.</p>
+        <p>Portanto, o processo de trabalho é a materialização do processo de
+            valorização e divisão do trabalho. Nesse processo de agregar valor ao produto, as horas de trabalho
+            empregadas
+            na
+            produção do objeto tornam-se mercadoria comprada pelo empregador, visando, sobretudo, à compra de suas
+            horas
+            de
+            trabalho, pagas em dinheiro (LUSTOZA, 2009).</p>
+    </div>
+</div>
+<footer
+    style="width: 100%;height: 19px;display: flex;background-color: #FFA800;align-items: center;justify-content: flex-end;">
+    <p style="color: white;font-size: 11px;margin-right: 50px;">O PROCESSO DE TRABALHO DO GESTOR
+        DA APS/ESF</p>
+</footer>
+<div id="conteudo"
+    style="position: absolute;background-color: rgb(250, 201, 1);top: 188px;left: 52px;width: 459px;border-radius: 10px;">
+    <p style="text-align: center;">Palavra associada: Matéria bruta</p>
+    <p style="text-align: center;">Algo tirado da natureza na sua condição natural, objeto de trabalho que já passou por
+        uma transformação anterior.</p>
+</div>
+<script>
+    $(() => {
+        let conteudo = $('#conteudo').hide();
+        $('#hotWord-bt').css('cursor', 'pointer').hover(() => {
+            conteudo.fadeIn()
+        })
+        $('#hotWord-bt').mouseout(() => {
+            conteudo.fadeOut()
+        })
+    })
+</script>
